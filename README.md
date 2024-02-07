@@ -1,3 +1,4 @@
+![logo](https://github.com/kirti455/kirti455/blob/main/Landing-Pg-Banner-1600x432px-5.webp)
 <h1 align="center">Hi 👋, I'm Kirti Vardhan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
